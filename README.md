@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mushkan Rana</h1>
+<h1 align="center">Hi 👋, I'm Mushkaan Rana</h1>
 <h3 align="center">A Passionate about Data Analysis and AI from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mushkanrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mushkanrana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mushkaanrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mushkanrana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ranamushkan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ranamushkan73" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mushkanrana73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mushkanrana73" height="30" width="40" /></a>
 </p>
